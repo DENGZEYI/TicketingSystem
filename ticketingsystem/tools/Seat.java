@@ -1,8 +1,6 @@
 package ticketingsystem.tools;
 
 import ticketingsystem.MyTicket;
-import ticketingsystem.tools.BitMap;
-import ticketingsystem.tools.BitHelper;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
